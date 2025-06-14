@@ -1,3 +1,3 @@
 ```bash
-https://google com
+https://google.com
 ```
